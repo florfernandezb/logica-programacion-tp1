@@ -1,0 +1,7 @@
+var ladoA = ING ladoA
+var ladoB = ING ladoB
+var ladoC = ING ladoC
+
+var perimetro = ladoA + ladoB + ladoC
+
+MOSTRAR 'El perimetro es: ' + perimetro

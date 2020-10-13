@@ -1,0 +1,10 @@
+var base = ING base
+var altura = ING altura
+
+var perimetro = 2 * (base + altura)
+
+MOSTRAR 'El perimetro del rectangulo es: ' + perimetro
+
+var area = base * altura
+
+MOSTRAR 'El area del rectangulo es: ' area

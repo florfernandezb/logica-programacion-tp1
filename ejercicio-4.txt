@@ -1,0 +1,9 @@
+var lado = ING lado
+
+var perimetro = lado * 4
+
+MOSTRAR 'El perimetro del cuadrado es: ' + perimetro
+
+var area = lado ** 2
+
+MOSTRAR 'El area del cuadrado es: ' + area
