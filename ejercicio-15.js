@@ -21,21 +21,3 @@ if(numero == 0){
 
 
 document.write(`<p style = "color: red"> ${resultado}</p>`)
-
-
-// if(numero == 0){
-//     resultado = 'cero'
-//     mensaje(resultado)
-// }
-
-// if(numero % 2 == 0){
-//     resultado = 'par'
-//     mensaje(resultado)
-// } else {
-//     resultado = 'impar'
-//     mensaje(resultado)
-// }
-
-// function mensaje(){
-//     return document.write(`<p style = "color: red">El valor ingresado es: ${resultado}</p>`)
-// }
