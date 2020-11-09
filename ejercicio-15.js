@@ -18,4 +18,4 @@ if(numero == 0){
     }
 }
 
-document.write(`<p style = "color: red"> ${resultado}</p>`);
+document.write(`<p style='color:red'> ${resultado}</p>`);

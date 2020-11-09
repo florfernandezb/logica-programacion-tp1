@@ -22,4 +22,4 @@ if (numero % 3 == 0) {
 	
 };
 
-document.write(resultado);
+document.write(`<p style='color:red'>${resultado}</p>`);

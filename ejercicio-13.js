@@ -28,4 +28,4 @@ sueldoMensual += bono;
 sueldoMensual = valorPorHora * cantidadDeHoras + .15 * valorPorHora * cantidadDeHoras * antiguedadEmpleado;
 
 //Display de resultado
-document.write(`<p>El sueldo mensual del empleado de acuerdo a lo ingresado es: ${sueldoMensual}</p>`);
+document.write(`<p style='color:red'>El sueldo mensual del empleado de acuerdo a lo ingresado es: ${sueldoMensual}</p>`);

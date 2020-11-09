@@ -30,4 +30,4 @@ switch (letra) {
 
 }
 
-document.write(`<p>${m}</p>`);
+document.write(`<p style='color:red'>${m}</p>`);
